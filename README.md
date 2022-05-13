@@ -19,6 +19,10 @@ The repository contains the following files & directories:
 
 
 
+## :chart_with_upwards_trend: Performance & results
+Files are downloaded and stored in downloaded_files folder :
+
+![](result_scrapy.png)
 
 ---
 ## :mailbox_closed: Contact
